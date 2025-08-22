@@ -1,2 +1,2 @@
 # sk
-This is a my first repository .
+This is my first git repository .
